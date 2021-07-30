@@ -28,7 +28,7 @@ h6 {
 }
 
 a {
-    color: #00BCD4;
+    color: #2f55d4;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -50,8 +50,8 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
-    color: #fff;
+    background: #fff;
+    color: #2f55d4;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -72,7 +72,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #00a5bb;
+    background: #3642f3;
 }
 
 #topcontrol {
@@ -80,7 +80,7 @@ a.btn:hover {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
-    background: #008fa1;
+    background: #2f55d4;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -113,7 +113,8 @@ a.btn:hover {
 }
 
 .header {
-    background: #00BCD4;
+    background: #1a237e
+;
     color: #fff;
 }
 
@@ -167,7 +168,7 @@ a.btn:hover {
 
 .header .actions a {
     margin-right: 10px;
-    color: #fff;
+    color: rgb(8, 8, 8);
 }
 
 .header .actions a:last-child {
@@ -176,10 +177,10 @@ a.btn:hover {
 
 .header .profile-image {
     position: absolute;
-    width: 160px;
-    height: 160px;
-    top: -80px;
-    margin-left: -80px;
+    width: 200px;
+    height: 200px;
+    top: -110px;
+    margin-left: -100px;
     left: 50%;
 }
 
@@ -197,7 +198,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #00a5bb;
+    background: #2f55d4;
     padding-top: 90px;
     padding-bottom: 30px;
     position: relative;
@@ -216,7 +217,8 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #007888;
+    background: #1a237e
+;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -233,7 +235,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #00BCD4;
+    background: #2f55d4;
 }
 
 .page-nav-wrapper a {
@@ -316,7 +318,7 @@ a.btn:hover {
 }
 
 .timeline {
-    border-left: 3px solid #00BCD4;
+    border-left: 3px solid #2f55d4;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -350,7 +352,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #00BCD4;
+    border: 3px solid #2f55d4;
 }
 
 .timeline .item:after {
@@ -369,7 +371,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #00BCD4;
+    background: #2f55d4;
     z-index: 10;
 }
 
@@ -403,7 +405,7 @@ a.btn:hover {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2f55d4;
 }
 
 .timeline .job-meta .time {
@@ -512,7 +514,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #00BCD4;
+    background: #2f55d4;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -551,7 +553,7 @@ a.btn:hover {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #00BCD4;
+    background-color: #2f55d4;
     width: 10px;
     height: 10px;
     margin: 0;
@@ -587,8 +589,8 @@ Portfolio Section
 }
 
 .portfolio-section .filters .type.active {
-    color: #00BCD4;
-    border-bottom: 2px solid #00BCD4;
+    color: #2f55d4;
+    border-bottom: 2px solid #2f55d4;
 }
 
 .portfolio-section .item {
@@ -641,7 +643,7 @@ Portfolio Section
 
 .portfolio-section .item-inner .content .action span {
     font-weight: 600;
-    color: #00BCD4;
+    color: #2f55d4;
 }
 
 /**
@@ -680,7 +682,7 @@ Contact section start here
 }
 
 .contact-section .service-list .fa {
-    color: #00BCD4;
+    color: #2f55d4;
 }
 
 .contact-section .social {
@@ -703,7 +705,7 @@ Contact section start here
 }
 
 .contact-section .social a:hover {
-    color: #00BCD4;
+    color: #2f55d4;
 }
 
 .footer .container {
@@ -952,7 +954,7 @@ Contact section start here
 }
 
 .config-panel #color-options li.theme-1 a {
-    background: #00BCD4;
+    background: #2f55d4;
 }
 
 .config-panel #color-options li.theme-2 a {
@@ -1037,7 +1039,7 @@ Contact section start here
 
 .book-section .category {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2f55d4;
     margin-top: 0;
     margin-bottom: 16px;
 }
@@ -1063,14 +1065,14 @@ Contact section start here
 
 .education-section .category {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2f55d4;
     margin-top: 0;
     margin-bottom: 16px;
 }
 
 .education-section .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2f55d4;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
